@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\bin\Debug\net8.0\Company.Repostory.deps.json
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\bin\Debug\net8.0\Company.Repostory.dll
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\bin\Debug\net8.0\Company.Repostory.pdb
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\bin\Debug\net8.0\Company.Data.dll
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\bin\Debug\net8.0\Company.Data.pdb
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\obj\Debug\net8.0\Company.Repostory.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\obj\Debug\net8.0\Company.Repostory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\obj\Debug\net8.0\Company.Repostory.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\obj\Debug\net8.0\Company.Repostory.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\obj\Debug\net8.0\Company.Repostory.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\obj\Debug\net8.0\Company..76A8F9FD.Up2Date
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\obj\Debug\net8.0\Company.Repostory.dll
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\obj\Debug\net8.0\refint\Company.Repostory.dll
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\obj\Debug\net8.0\Company.Repostory.pdb
+C:\Users\lenovo\source\repos\Company.Web\Company.Repostory\obj\Debug\net8.0\ref\Company.Repostory.dll
